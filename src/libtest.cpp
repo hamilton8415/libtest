@@ -9,5 +9,5 @@ std::cout << "Constructing libtest object " << std::endl;
 
 void libtest::print_details()
 {
-std::cout << "Here are the deets" << std::endl;
+std::cout << "Here are the details" << std::endl;
 }
